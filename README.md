@@ -68,4 +68,12 @@ Feel free to explore each project folder to view the project files, renders, and
 - **Description**: Learned a lot of information, from rigging, and keyframing, to adding constraints, adding details, and adding animation principles. The Robot arms and the Robots are from the practice packs from the online course.
 - **Tools**: Maya
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/bfdb9657-65bf-4d08-9304-6e78e5a99112" alt="robot" width="400"/></td>
+    </tr>
+  </table>
+</div>
+
 
