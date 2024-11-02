@@ -92,6 +92,16 @@ Feel free to explore each project folder to view the project files, renders, and
         </a>
       </td>
     </tr>
+        <img src="https://github.com/user-attachments/assets/d6ec784e-5381-48b2-a09d-dafc7283a82b" alt="hammer" width="400"/>
+      </td>
+      <td>
+        <a href="https://youtu.be/WkyXzLehdNs" target="_blank">
+
+          <img src="https://github.com/user-attachments/assets/ed5196b5-859e-481a-8bc9-f93befa9d8ac" alt="Watch the video" width="360"/>
+          <p>Watch the video</p>
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
