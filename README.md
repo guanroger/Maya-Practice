@@ -55,8 +55,15 @@ Feel free to explore each project folder to view the project files, renders, and
 ### 2: Character Modeling & Rigging
 - **Description**: Apart from character modeling, some features such as character rigging and fur are added. 
 - **Tools**: Maya, Substance Painter
-
-![monster_color](https://github.com/user-attachments/assets/48ef42b3-eead-4a6d-9724-74eb65232bc7)
-![monster_color _no](https://github.com/user-attachments/assets/25c79a3e-f322-4e35-abd3-510928fde9a0)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/a8a74171-2320-483b-b18b-a7e474e44ccd" alt="monster_color" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/25c79a3e-f322-4e35-abd3-510928fde9a0" alt="monster_color_no" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 
