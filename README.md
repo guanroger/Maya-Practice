@@ -52,8 +52,6 @@ Feel free to explore each project folder to view the project files, renders, and
   </table>
 </div>
 
-
-
 ### 2: Character Modeling & Rigging
 - **Description**: Apart from character modeling, some features such as character rigging and fur are added. 
 - **Tools**: Maya, Substance Painter
@@ -65,5 +63,9 @@ Feel free to explore each project folder to view the project files, renders, and
     </tr>
   </table>
 </div>
+
+### 3: Animation
+- **Description**: Learned a lot of information, from rigging, and keyframing, to adding constraints, adding details, and adding animation principles. The Robot arms and the Robots are from the practice packs from the online course.
+- **Tools**: Maya
 
 
