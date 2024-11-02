@@ -72,11 +72,17 @@ Feel free to explore each project folder to view the project files, renders, and
   <table>
     <tr>
 
-      <td><img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="barrel jump" width="400"/></td>
-      <td> <a href="Animation/barrel-jumping.mp4">
+      <td>
+        <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="barrel jump" width="300"/>
+      </td>
+      
+      <!-- Video link cell with thumbnail -->
+      <td>
+        <a href="Animation/barrel-jumping.mp4">
           <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="Barrel Jump Animation" width="300"/>
         </a>
-        <p>Click image to watch the video</p></td>
+        <p>Click image to watch the video</p>
+      </td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/bfdb9657-65bf-4d08-9304-6e78e5a99112" alt="robot" width="400"/></td>
