@@ -76,7 +76,18 @@ Feel free to explore each project folder to view the project files, renders, and
       </td>
       <td>
         <a href="https://youtu.be/s2OgcJc7t2U" target="_blank">
-          <img src="https://github.com/user-attachments/assets/babf8ecf-5b5f-4380-826b-485ed40c7f8a" alt="Watch the video" width="380"/>
+          <img src="https://github.com/user-attachments/assets/babf8ecf-5b5f-4380-826b-485ed40c7f8a" alt="Watch the video" width="360"/>
+          <p>Watch the video</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/44a99cea-0a9c-4f39-8242-c2a3e5dd704d" alt="hammer" width="400"/>
+      </td>
+      <td>
+        <a href="https://youtu.be/hImH5OiZEfo" target="_blank">
+          <img src="https://github.com/user-attachments/assets/2e3df01e-bbf3-43e8-886c-6c1e18b7be49" alt="Watch the video" width="360"/>
           <p>Watch the video</p>
         </a>
       </td>
