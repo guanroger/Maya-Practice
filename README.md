@@ -73,12 +73,7 @@ Feel free to explore each project folder to view the project files, renders, and
     <tr>
 
       <td>
-        <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="barrel jump" width="300"/>
-      </td>
-      
-      <!-- Video link cell with thumbnail -->
-      <td>
-        <a href="Animation/barrel-jumping.mp4">
+                <a href="Animation/barrel-jumping.mp4">
           <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="Barrel Jump Animation" width="300"/>
         </a>
         <p>Click image to watch the video</p>
