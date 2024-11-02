@@ -38,14 +38,14 @@ Feel free to explore each project folder to view the project files, renders, and
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/a8a74171-2320-483b-b18b-a7e474e44ccd" alt="barrel" width="200"/></td>
-      <td><img src="https://github.com/user-attachments/assets/780f5428-f8e4-4ee9-ba57-acd31e82c6bc" alt="barrel texture" width="200"/></td>
-      <td><img src="https://github.com/user-attachments/assets/7fc3ce3e-0b37-46c5-831d-bb7f52bbf7a9" alt="chess board" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/a8a74171-2320-483b-b18b-a7e474e44ccd" alt="barrel" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/780f5428-f8e4-4ee9-ba57-acd31e82c6bc" alt="barrel texture" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/7fc3ce3e-0b37-46c5-831d-bb7f52bbf7a9" alt="chess board" width="400"/></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/085fdcae-adc7-4da9-9d08-f9ac71e1a702" alt="hammer" width="200"/></td>
-      <td><img src="https://github.com/user-attachments/assets/abc18912-f577-4b0e-8e27-9fc6601eb0c2" alt="fantasy door render" width="200"/></td>
-      <td><img src="https://github.com/user-attachments/assets/9ce940e3-71b1-433c-8b18-93e4f2a3752a" alt="fantasy door" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/085fdcae-adc7-4da9-9d08-f9ac71e1a702" alt="hammer" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/abc18912-f577-4b0e-8e27-9fc6601eb0c2" alt="fantasy door render" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/9ce940e3-71b1-433c-8b18-93e4f2a3752a" alt="fantasy door" width="400"/></td>
     </tr>
   </table>
 </div>
