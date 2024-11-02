@@ -77,6 +77,7 @@ Feel free to explore each project folder to view the project files, renders, and
       <td>
         <a href="https://youtu.be/s2OgcJc7t2U" target="_blank">
           <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="Watch the video" width="400"/>
+          <p>Watch the video</p>
         </a>
       </td>
     </tr>
