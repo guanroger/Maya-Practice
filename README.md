@@ -42,8 +42,6 @@ Feel free to explore each project folder to view the project files, renders, and
       <td><img src="https://github.com/user-attachments/assets/780f5428-f8e4-4ee9-ba57-acd31e82c6bc" alt="barrel texture" width="400"/></td>
       <td><img src="https://github.com/user-attachments/assets/7fc3ce3e-0b37-46c5-831d-bb7f52bbf7a9" alt="chess board" width="400"/></td>
       <td><img src="https://github.com/user-attachments/assets/97cf3608-f405-4b0a-bb71-a403c8335682" alt="chest board" width="400"/></td>
-
-
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/085fdcae-adc7-4da9-9d08-f9ac71e1a702" alt="hammer" width="400"/></td>
