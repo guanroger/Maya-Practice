@@ -72,13 +72,12 @@ Feel free to explore each project folder to view the project files, renders, and
   <table>
     <tr>
       <td>
-        <a href="Animation/barrel-jumping.mp4" target="_blank">
-          <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="Barrel Jump Animation" width="300"/>
-        </a>
-        <p>Click image to watch the video</p>
+       <img src="https://github.com/user-attachments/assets/058d4aad-1ae2-4b3f-85f7-5bbcc570f4f8" alt="hammer" width="400"/>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 
