@@ -7,10 +7,6 @@ Welcome to my 3D modeling and animation portfolio! This collection showcases my 
 - [About](#about)
 - [Technologies Used](#technologies-used)
 - [Portfolio Highlights](#portfolio-highlights)
-- [File Structure](#file-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
 
 ## About
 
